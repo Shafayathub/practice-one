@@ -106,3 +106,14 @@ section{
 .side-text{
     margin-right: 240px;
 }
+footer{
+    height: 150px;
+    background-color: black;
+}
+footer h2{
+    color: whitesmoke;
+    font-family: 'Yeseva One', cursive;
+}
+footer p{
+    color: whitesmoke;
+}
