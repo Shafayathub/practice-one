@@ -1,4 +1,49 @@
 body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+}
+
+h1{
+    font-size: 50px;
+    padding: 10px;
+}
+
+.mission-heading{
+    border-left: 5px solid orangered;
+    border-image-slice: 1;
+    border-radius: 3px;
+    font-family: 'Yeseva One', cursive;
+}
+
+.link-button{
+    text-decoration: none;
+    background: #FF5959;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+section{
+    margin-left: 150px;
+    display: flex;
+}
+
+.half-width{
+    width: 45%;
+    text-align: justify;
+    padding: 25px;
+}
+
+.half-width img{
+    width: 80%;
+}
+.text{
+    margin-top: 150px;
+    font-family: sans-serif;
+    padding-top: 25px;
+    text-align: justify;
+}
+.spaced-para{
+    margin-top: 30px;
 }
