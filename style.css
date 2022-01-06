@@ -64,11 +64,25 @@ section{
     font-family: sans-serif;
     border: 1px solid gray;
     padding-left: 15px;
+    box-shadow: 4px 4px 8px grey;
+    border-radius: 10px;
 }
 
 .second-sec img{
     width: 100%;
 }
 .all-box{
-    display: flex;    
+    display: flex;
+    justify-content: space-around;
+}
+
+#box-one{
+    background: #4F9DA61A;
+    ;
+}
+#box-two{
+    background: #FF59591A;
+}
+#box-three{
+    background: #FFF4D6;
 }
