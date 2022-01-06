@@ -5,8 +5,12 @@ body{
 }
 
 h1{
-    font-size: 50px;
-    padding: 10px;
+    font-size: 55px;
+    padding: 5px 15px;
+}
+
+.orange{
+    color: orange;
 }
 
 .mission-heading{
