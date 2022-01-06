@@ -7,6 +7,8 @@ body{
 h1{
     font-size: 55px;
     padding: 5px 15px;
+    font-family: sans-serif;
+    font-weight: 700;
 }
 
 .orange{
@@ -31,6 +33,7 @@ h1{
 section{
     margin-left: 150px;
     display: flex;
+    padding-bottom: 150px;
 }
 
 .half-width{
@@ -50,4 +53,22 @@ section{
 }
 .spaced-para{
     margin-top: 30px;
+}
+
+.centered-heading{
+    text-align: center;
+}
+
+.second-sec-boxes{
+    width: 250px;
+    font-family: sans-serif;
+    border: 1px solid gray;
+    padding-left: 15px;
+}
+
+.second-sec img{
+    width: 100%;
+}
+.all-box{
+    display: flex;    
 }
