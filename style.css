@@ -6,7 +6,6 @@ body{
 
 h1{
     font-size: 55px;
-    padding: 5px 15px;
     font-family: sans-serif;
     font-weight: 700;
 }
@@ -20,6 +19,7 @@ h1{
     border-image-slice: 1;
     border-radius: 3px;
     font-family: 'Yeseva One', cursive;
+    padding: 5px 15px;
 }
 
 .link-button{
@@ -31,7 +31,7 @@ h1{
 }
 
 .half-width{
-    width: 45%;
+    width: 50%;
     text-align: justify;
     padding: 25px;
 }
@@ -44,7 +44,7 @@ h1{
     margin-top: 150px;
     font-family: sans-serif;
     padding-top: 25px;
-    text-align: justify;
+    text-align: left;
 }
 .spaced-para{
     margin-top: 30px;
@@ -89,4 +89,15 @@ section{
 }
 #box-three{
     background: #FFF4D6;
+}
+.third-sec-div{
+    font-family: sans-serif;
+    display: flex;
+    text-align: left;
+}
+.third-sec-div img{
+    width: 80%;
+}
+.side-text{
+    margin-right: 240px;
 }
